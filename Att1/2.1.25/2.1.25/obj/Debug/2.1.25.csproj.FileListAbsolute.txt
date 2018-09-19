@@ -1,0 +1,12 @@
+C:\Users\Руслан\source\repos\Att1\2.1.25\2.1.25\bin\Debug\2.1.25.exe.config
+C:\Users\Руслан\source\repos\Att1\2.1.25\2.1.25\bin\Debug\2.1.25.exe
+C:\Users\Руслан\source\repos\Att1\2.1.25\2.1.25\bin\Debug\2.1.25.pdb
+C:\Users\Руслан\source\repos\Att1\2.1.25\2.1.25\bin\Debug\BL.dll
+C:\Users\Руслан\source\repos\Att1\2.1.25\2.1.25\bin\Debug\BL.pdb
+C:\Users\Руслан\source\repos\Att1\2.1.25\2.1.25\obj\Debug\2.1.25.csprojResolveAssemblyReference.cache
+C:\Users\Руслан\source\repos\Att1\2.1.25\2.1.25\obj\Debug\_2._1._25.Form1.resources
+C:\Users\Руслан\source\repos\Att1\2.1.25\2.1.25\obj\Debug\_2._1._25.Properties.Resources.resources
+C:\Users\Руслан\source\repos\Att1\2.1.25\2.1.25\obj\Debug\2.1.25.csproj.GenerateResource.Cache
+C:\Users\Руслан\source\repos\Att1\2.1.25\2.1.25\obj\Debug\2.1.25.csproj.CoreCompileInputs.cache
+C:\Users\Руслан\source\repos\Att1\2.1.25\2.1.25\obj\Debug\2.1.25.exe
+C:\Users\Руслан\source\repos\Att1\2.1.25\2.1.25\obj\Debug\2.1.25.pdb
